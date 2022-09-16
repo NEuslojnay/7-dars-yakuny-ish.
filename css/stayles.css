@@ -1,0 +1,96 @@
+body {
+  background-color: #c3ff99;
+  margin: 0;
+}
+h4 {
+  margin: 0px 0px 0px 17px;
+  display: inline-block;
+}
+h1 {
+  margin: 0;
+  display: inline-block;
+  margin: 0px 0px 0px 24px;
+}
+hr {
+  width: 330px;
+  border-color: #a4acad;
+  border-style: solid;
+}
+.GLAV {
+  background-color: #e5e5e5;
+  margin: auto;
+  width: 360px;
+  height: 1100px;
+}
+.table1 {
+  width: 360px;
+  height: 62px;
+  background-color: #ffffff;
+  margin: auto;
+}
+.input2tali {
+  width: 140px;
+  height: 40px;
+  border: 0;
+  padding-left: 20px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.input1tali {
+  width: 310px;
+  height: 15px;
+  padding-left: 20px;
+  padding-top: 12px;
+  padding-bottom: 11px;
+  padding-right: 0px;
+  border-radius: 5px;
+  border: 0px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.input2talimargin {
+  width: 140px;
+  height: 40px;
+  border: 0;
+  padding-left: 20px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  margin-left: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.p {
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+.p1 {
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+  color: #ff9846;
+}
+.in2 {
+  width: 330px;
+  height: 48px;
+  background-color: #f46d40;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 15px;
+  color: #ffffff;
+  font-size: 20px;
+}
+.in2:hover {
+  color: #f46d40;
+  background-color: #eb1d36;
+  padding: 10px;
+  border-style: ridge;
+  border-color: darksalmon;
+  border-radius: 0px 230px 0px 230px;
+  text-align: center;
+}
